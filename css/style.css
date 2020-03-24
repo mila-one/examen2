@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&display=swap');
+
+body{
+	font-size: 15px;
+	color: #777;
+	font-family: 'Lobster', cursive,'Open Sans', sans-serif;
+}
+header{
+	position: absolute;
+	background-color: #ff6796;
+	width: 100%;
+	top:0;
+}
+
+#slides{
+	background-color: #FF6796;
+}
+
+#slides h2{
+	color: #FFFFFF;
+	font-size: 70px;
+}
+
+#slides p{
+	color: #FFFFFF;
+	font-size: 30px;
+}
+#slides a{
+	background-color: #01BEFE;
+	border-radius: 15px;
+	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#works{
+	background-color: #FFFFFF;
+	margin-bottom: 10%;
+}
+
+#works img{
+	border-radius: 300px;
+	height: 90%;
+	width: 100%;
+	float: inherit;
+	border: 8px solid #FF6796;
+	margin: 28% 10%;
+}
+
+#works h1{
+	font-size: 40px;
+	color: #444444;
+	position: absolute;
+	text-align: center;
+}
+
+#products{
+	background-color: #01BEFE;
+}
+
+#products h2{
+	color: #444444;
+}
+
+#products p{
+	font: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color: #FFF;
+}
+#products img{
+	border-radius: 15px;
+	margin: 40% 10%;
+}
+
+#products img:hover{
+	filter: grayscale(1);
+}
+
+#features{
+	background-color: #FF6796;
+}
+
+#features h1{
+	font-size: 40px;
+	color: #FFFFFF;
+	text-align: left;
+	margin: 2% 5%;
+}
+#features h2{
+	color: #FFFFFF;
+	font-size: 20px;
+	text-align: center;
+	margin: 18% 5%;
+}
+#features p{
+	color: #FFFFFF;
+	font-size: 14px;
+	text-align: center;
+}
+#features i{
+	font-size: 60px;
+	text-align: center;
+	color: #FFFFFF;
+	float:none;
+}
+
+#about a{
+	
+}
+
+#team{
+	background-color: #01BEFE;
+}
+#team img{
+	border-radius: 90% 60%;
+	width: 80%;
+	height: 70%;
+}
+#team h1{
+	font-size: 40px;
+	color: #FFFFFF;
+	text-align: left;
+	margin: 2% 5%;
+}
+
+
+#footer i{
+	padding: 6% 8%; 
+	color: #FFFFFF;
+	border-radius: 50%;
+	margin: 0 6px
+}
+#footer{
+	background-color: #231D1D;
+}
+#footer a, p{
+	color: #FFF;
+	text-align: center;
+}
